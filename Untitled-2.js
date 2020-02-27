@@ -1,0 +1,11 @@
+launchApp('抖音短视频');
+sleep(6500);
+id('y2').findOne().click();
+sleep(1000);
+id('ass').findOne().click();
+sleep(1000);
+setText('good');
+sleep(1000);
+id('yl').findOne().click();
+sleep(1000);
+back();
